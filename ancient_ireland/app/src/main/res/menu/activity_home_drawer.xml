@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+
+    <item android:title="Features">
+        <menu>
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="@string/menu_rate" />
+        <item
+            android:id="@+id/nav_location"
+            android:icon="@drawable/ic_menu_location"
+            android:title="@string/menu_location" />
+        <item
+            android:id="@+id/nav_location_all"
+            android:icon="@drawable/ic_menu_location_all"
+            android:title="@string/menu_location_all" />
+        <item
+            android:id="@+id/nav_icons"
+            android:icon="@android:drawable/ic_menu_mapmode"
+            android:title="@string/menu_map" />
+        <item
+            android:id="@+id/nav_definitions"
+            android:icon="@drawable/ic_menu_aboutus"
+            android:title="@string/menu_definitions" />
+            </menu>
+        </item>
+
+
+    <item android:title="Access Control">
+        <menu>
+            <item
+                android:id="@+id/nav_sign_out"
+                android:icon="@android:drawable/ic_menu_revert"
+                android:title="@string/sign_out" />
+        </menu>
+    </item>
+
+</menu>

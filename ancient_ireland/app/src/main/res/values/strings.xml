@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Ancient Ireland</string>
+    <string name="action_rate">Rate</string>
+    <string name="action_location">Locations</string>
+    <string name="rateTitle">Rating</string>
+    <string name="rateSubtitle">What is your rating?</string>
+    <string name="rateButton">Rate</string>
+    <string name="outstanding">Outstanding</string>
+    <string name="church">Church</string>
+    <string name="museum">Musuem</string>
+    <string name="palace">Palace</string>
+    <string name="residential">Residential</string>
+    <string name="buildingType">Select the type of\nbuilding this is :</string>
+    <string name="constructedYear">Enter the year this\nbuilding was\nconstructed :</string>
+    <string name="locationTitle">All Locations</string>
+    <string name="defaultAmount">00</string>
+    <string name="defaultMethod">N/A</string>
+    <string name="enter_year">Enter Year</string>
+
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open Nav Drawer</string>
+    <string name="navigation_drawer_close">Close Nav Drawer</string>
+    <string name="nav_header_title">Ancient Ireland</string>
+    <string name="nav_header_subtitle">Fáilte!</string>
+    <string name="nav_header_desc">Rate Irelands Landmarks!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_rate">Rate</string>
+    <string name="menu_location">Locations</string>
+    <string name="menu_map">Map</string>
+    <string name="menu_definitions">Definitions</string>
+    <string name="definitions_title">Definitions</string>
+    <string name="definitions_message">
+        Year: In which time period was the building constructed?\n\n
+
+        Type: What type of structure is the building?\n\n
+        1 - Outstanding (Newgrange)\n\n  |  2 - Church  |  3 - Musuem  |  4 - Palace\n\n  |  5 - Residential\n\n
+
+        Condition: What is the structural condition of the building?\n\n
+        1 - Poor.  |  2 - Mediocre.\n\n 3 - Satisfactory.  |  4 - Pristine.\n\n
+
+        Site: Does the building occupy its original site?\n\n
+        1:New site.\n\n
+        2:Reoriented on the original site.\n\n
+        3:New foundation in its original location.\n\n
+        4:Original site.\n\n</string>
+
+    <string name="messageLoading">Connecting to the Server…</string>
+
+    <string name="action_edit">Edit Rating</string>
+    <string name="action_update">Update</string>
+    <string name="message_edit">Your Rating!</string>
+
+    <!-- START Firebase Resources-->
+
+    <string name="label_emailpassword">Email/Password Authentication</string>
+    <string name="desc_emailpassword">Use an email and password to authenticate with Firebase.</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="send_link">Send Link</string>
+    <string name="sign_out">Log Out</string>
+    <string name="verify_email">Verify Email</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="loading">Loading…</string>
+    <string name="signed_in">Logged In</string>
+    <string name="signed_out">Logged Out</string>
+    <string name="token_null">Token: null</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="firebase_user_management">Firebase User Management</string>
+    <string name="emailpassword_status_fmt">Email User: %1$s (verified: %2$b)</string>
+    <string name="emailpassword_title_text">Ancient Ireland</string>
+
+    <string name="menu_location_all">All Locations</string>
+    <string name="select_profile_image">Select Profile Image</string>
+    <string name="map_title">Landmark Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="sign_in_google">Google Log In</string>
+    <string name="sign_in_email">Email Log In</string>
+    <string name="sign_in_phone">Phone Log In</string>
+    <!--END Firebase Resources-->
+</resources>

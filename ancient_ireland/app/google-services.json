@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1095389022446",
+    "firebase_url": "https://donation-case-study-ii-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "donation-case-study-ii",
+    "storage_bucket": "donation-case-study-ii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095389022446:android:fda06db0ddf6e364618bff",
+        "android_client_info": {
+          "package_name": "ie.wit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095389022446-ceod1mqtjkh7voskkmkchml5miptcl7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-UCKqTWjYrxo2u4K2P6SbHYqKWQA4RSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095389022446-ceod1mqtjkh7voskkmkchml5miptcl7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
