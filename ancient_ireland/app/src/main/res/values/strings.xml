@@ -33,13 +33,13 @@
     <string name="definitions_message">
         Year: In which time period was the building constructed?\n\n
 
-        Type: What type of structure is the building?\n\n
-        1 - Outstanding (Newgrange)\n\n  |  2 - Church  |  3 - Musuem  |  4 - Palace\n\n  |  5 - Residential\n\n
+        Type: What type of structure\n\n is the building?\n\n
+        1: Outstanding  |  2: Church  |  3: Musuem  |\n\n  4: Palace  |  5 - Residential\n\n
 
-        Condition: What is the structural condition of the building?\n\n
+        Condition: What is the structural\n\n condition of the building?\n\n
         1 - Poor.  |  2 - Mediocre.\n\n 3 - Satisfactory.  |  4 - Pristine.\n\n
 
-        Site: Does the building occupy its original site?\n\n
+        Site: Does the building occupy\n\n its original site?\n\n
         1:New site.\n\n
         2:Reoriented on the original site.\n\n
         3:New foundation in its original location.\n\n

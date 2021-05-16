@@ -71,7 +71,7 @@
         android:id="@+id/editSite"
         android:layout_width="210dp"
         android:layout_height="73dp"
-        android:layout_marginTop="4dp"
+        android:layout_marginTop="96dp"
         android:layout_marginEnd="12dp"
         android:ems="10"
         android:inputType="textMultiLine"
@@ -100,8 +100,8 @@
         android:id="@+id/editCondition"
         android:layout_width="210dp"
         android:layout_height="73dp"
-        android:layout_marginTop="184dp"
-        android:layout_marginEnd="12dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="16dp"
         android:ems="10"
         android:inputType="textMultiLine"
         android:textAlignment="viewStart"
@@ -114,7 +114,7 @@
         android:id="@+id/editMessage"
         android:layout_width="210dp"
         android:layout_height="73dp"
-        android:layout_marginTop="92dp"
+        android:layout_marginTop="188dp"
         android:layout_marginEnd="12dp"
         android:ems="10"
         android:inputType="textMultiLine"
@@ -161,8 +161,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/editMessage"
-        app:layout_constraintVertical_bias="0.717" />
+        app:layout_constraintTop_toBottomOf="@id/editMessage" />
 
     <TextView
         android:id="@+id/message_edit"
